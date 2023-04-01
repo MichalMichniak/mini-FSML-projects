@@ -8,4 +8,4 @@ compile throughout cmake 2 mini projects:
 | pitch | "W","S" |
 | yaw | "A","D" |
 
-- one_direction_perspective - Spining Cube with an atempt of implementation perspective
+- one_direction_perspective - Spining Cube with an atempt to implement perspective
